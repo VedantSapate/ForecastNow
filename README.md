@@ -39,7 +39,7 @@ const APIKey = 'Your Api Key';
 Here we have project screenshot :
 
 <p align="center">
-<img src="https://github.com/VedantSapate/Weather-App/assets/144541195/1490743a-0ef6-4812-8fe6-609cb4c8d3cd" width="300" height="300" />
+<img src="https://github.com/VedantSapate/ForecastNow/assets/144541195/772441ba-2147-48ef-8d86-e55afe1545a1" width="300" height="300" />
 </p>
 
 ## Credits
