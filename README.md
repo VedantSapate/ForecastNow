@@ -25,7 +25,7 @@ const APIKey = 'Your Api Key';
   
 ## Installation
 
-- Clone the repository: git clone https://github.com/VedantSapate/weather-app.git
+- Clone the repository: git clone https://github.com/VedantSapate/ForecastNow.git
 - Open the index.html file in a web browser.
   
 ## Usage
@@ -39,7 +39,7 @@ const APIKey = 'Your Api Key';
 Here we have project screenshot :
 
 <p align="center">
-<img src="https://github.com/VedantSapate/ForecastNow/assets/144541195/772441ba-2147-48ef-8d86-e55afe1545a1" width="500" height="500" />
+<img src="https://github.com/VedantSapate/ForecastNow/assets/144541195/772441ba-2147-48ef-8d86-e55afe1545a1" width="300" height="300" />
 </p>
 
 ## Credits
