@@ -1,6 +1,6 @@
-## ForecastNow App
+## ForecastNow 
 
-The ForecastNow App is a web application that allows users to check the current weather conditions for a specific city. It provides users with information such as temperature, weather description, and an icon representing the weather condition. 
+The ForecastNow is a web application that allows users to check the current weather conditions for a specific city. It provides users with information such as temperature, weather description, and an icon representing the weather condition. 
 
 ## Warning
 You need to get your own api key and replace it in index.js file on line 9 :
